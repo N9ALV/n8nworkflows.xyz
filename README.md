@@ -79,7 +79,7 @@ Each workflow folder contains **exactly 4 files**:
 
 
 
-## 📚 Workflows Summary (8008 workflows)
+## 📚 Workflows Summary (8009 workflows)
 
 - [ AI Client Onboarding Agent: Auto Welcome Email Generator-4448](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%20AI%20Client%20Onboarding%20Agent%3A%20Auto%20Welcome%20Email%20Generator-4448)
 - [ AI Data Analyst Agent for Spreadsheets with NocoDB-2653](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%20AI%20Data%20Analyst%20Agent%20for%20Spreadsheets%20with%20NocoDB-2653)
@@ -4798,6 +4798,7 @@ Each workflow folder contains **exactly 4 files**:
 - [Generate QA Test Cases from Figma Designs to Google Sheets using GPT-4o-mini-10326](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%20QA%20Test%20Cases%20from%20Figma%20Designs%20to%20Google%20Sheets%20using%20GPT-4o-mini-10326)
 - [Generate QR Codes from URLs with QR Server API and Downloadable Images-5124](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%20QR%20Codes%20from%20URLs%20with%20QR%20Server%20API%20and%20Downloadable%20Images-5124)
 - [Generate Qualified Instagram Leads from Hashtags with Apify and Google Sheets-7373](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%20Qualified%20Instagram%20Leads%20from%20Hashtags%20with%20Apify%20and%20Google%20Sheets-7373)
+- [Generate Real Estate Research Reports With Exa AI, PandaDoc and Instantly AI-14053](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%20Real%20Estate%20Research%20Reports%20With%20Exa%20AI%2C%20PandaDoc%20and%20Instantly%20AI-14053)
 - [Generate Realistic Sound Effects with CassetteAI and Save to Google Drive-5158](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%20Realistic%20Sound%20Effects%20with%20CassetteAI%20and%20Save%20to%20Google%20Drive-5158)
 - [Generate recipe variations from ingredients using Google Gemini and Google Sheets-12121](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%20recipe%20variations%20from%20ingredients%20using%20Google%20Gemini%20and%20Google%20Sheets-12121)
 - [Generate Recipes from Fridge Photos using GPT-4 Vision & Telegram-9558](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%20Recipes%20from%20Fridge%20Photos%20using%20GPT-4%20Vision%20%26%20Telegram-9558)
