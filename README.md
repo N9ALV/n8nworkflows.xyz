@@ -79,7 +79,7 @@ Each workflow folder contains **exactly 4 files**:
 
 
 
-## 📚 Workflows Summary (8171 workflows)
+## 📚 Workflows Summary (8173 workflows)
 
 - [ AI Client Onboarding Agent: Auto Welcome Email Generator-4448](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%20AI%20Client%20Onboarding%20Agent%3A%20Auto%20Welcome%20Email%20Generator-4448)
 - [ AI Data Analyst Agent for Spreadsheets with NocoDB-2653](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%20AI%20Data%20Analyst%20Agent%20for%20Spreadsheets%20with%20NocoDB-2653)
@@ -3992,6 +3992,8 @@ Each workflow folder contains **exactly 4 files**:
 - [Extract Customer Pain Points from Support Forums with Bright Data & GPT-4-5952](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Extract%20Customer%20Pain%20Points%20from%20Support%20Forums%20with%20Bright%20Data%20%26%20GPT-4-5952)
 - [Extract Data from Documents with GPT-4, PDFVector & PostgreSQL Export-7357](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Extract%20Data%20from%20Documents%20with%20GPT-4%2C%20PDFVector%20%26%20PostgreSQL%20Export-7357)
 - [Extract data from Dropbox documents with DocuPipe and post to Slack-14327](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Extract%20data%20from%20Dropbox%20documents%20with%20DocuPipe%20and%20post%20to%20Slack-14327)
+- [Extract data from email attachments to Airtable with DocuPipe AI-14328](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Extract%20data%20from%20email%20attachments%20to%20Airtable%20with%20DocuPipe%20AI-14328)
+- [Extract data from Gmail attachments to Google Sheets using DocuPipe-14329](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Extract%20data%20from%20Gmail%20attachments%20to%20Google%20Sheets%20using%20DocuPipe-14329)
 - [Extract Data from Invoices with OCR, Gemini AI, and Airtable-7634](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Extract%20Data%20from%20Invoices%20with%20OCR%2C%20Gemini%20AI%2C%20and%20Airtable-7634)
 - [Extract data from PDF reports with Gmail, OCR, Google Sheets and OpenAI GPT-4.1-mini-12961](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Extract%20data%20from%20PDF%20reports%20with%20Gmail%2C%20OCR%2C%20Google%20Sheets%20and%20OpenAI%20GPT-4.1-mini-12961)
 - [Extract Data from Thai Government Letters with Mistral OCR and Store in Google Sheets-6702](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Extract%20Data%20from%20Thai%20Government%20Letters%20with%20Mistral%20OCR%20and%20Store%20in%20Google%20Sheets-6702)
