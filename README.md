@@ -79,7 +79,7 @@ Each workflow folder contains **exactly 4 files**:
 
 
 
-## 📚 Workflows Summary (8173 workflows)
+## 📚 Workflows Summary (8174 workflows)
 
 - [ AI Client Onboarding Agent: Auto Welcome Email Generator-4448](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%20AI%20Client%20Onboarding%20Agent%3A%20Auto%20Welcome%20Email%20Generator-4448)
 - [ AI Data Analyst Agent for Spreadsheets with NocoDB-2653](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%20AI%20Data%20Analyst%20Agent%20for%20Spreadsheets%20with%20NocoDB-2653)
@@ -4774,6 +4774,7 @@ Each workflow folder contains **exactly 4 files**:
 - [Generate Multi-Platform Content with OpenAI, Tavily Research & Supabase Storage-7947](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%20Multi-Platform%20Content%20with%20OpenAI%2C%20Tavily%20Research%20%26%20Supabase%20Storage-7947)
 - [Generate Multi-Platform Social Media Posts with GPT-4.1 and PostPulse-9195](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%20Multi-Platform%20Social%20Media%20Posts%20with%20GPT-4.1%20and%20PostPulse-9195)
 - [Generate multi-scene AI videos from scripts with Claude, Stability AI and Runway-13807](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%20multi-scene%20AI%20videos%20from%20scripts%20with%20Claude%2C%20Stability%20AI%20and%20Runway-13807)
+- [Generate multi-variation FX concept clips with Seedance AI, Google Drive, Notion and Slack-14388](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%20multi-variation%20FX%20concept%20clips%20with%20Seedance%20AI%2C%20Google%20Drive%2C%20Notion%20and%20Slack-14388)
 - [Generate multilingual audio content with OpenAI, ElevenLabs, Google Drive and Slack-12378](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%20multilingual%20audio%20content%20with%20OpenAI%2C%20ElevenLabs%2C%20Google%20Drive%20and%20Slack-12378)
 - [Generate Multilingual Shopify Product Descriptions with Gemini 2.5 Vision AI-8179](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%20Multilingual%20Shopify%20Product%20Descriptions%20with%20Gemini%202.5%20Vision%20AI-8179)
 - [Generate Multiple AI Images with DALL·E 2 and Upload to Google Drive-7222](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%20Multiple%20AI%20Images%20with%20DALL%C2%B7E%202%20and%20Upload%20to%20Google%20Drive-7222)
